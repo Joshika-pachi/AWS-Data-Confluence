@@ -10,16 +10,15 @@ Additionally, Amazon SNS is integrated to send real-time notifications and alert
 
 ## ✨ Key Features
 
-- 🚀 Real-time data ingestion from web applications  
+- 🚀 Real-time data ingestion  
 - ☁️ Fully serverless cloud architecture  
 - 📦 Scalable data lake using Amazon S3  
 - 🔍 Automatic schema discovery with AWS Glue  
 - 📊 Instant SQL analytics using Amazon Athena  
 - 🔔 Real-time alerts using Amazon SNS  
 - 🔐 Secure access using AWS IAM roles  
-- 📈 CloudWatch logging and monitoring  
-- 💰 Cost-efficient, pay-as-you-go design  
-
+- 📈 CloudWatch logging and monitoring   
+- 📥 The data entered by users appears directly in downloadable CSV log files
 ---
 
 ## 🏗️ System Architecture
@@ -76,5 +75,9 @@ Amazon SNS (Email / Notification Alerts)
 - 📱 Mobile ingestion support
 - 🔔 Intelligent alert automation
 - 🔐 Advanced security layers
+
+---
+
+Made with ❤️ on AWS.
 
 ---
