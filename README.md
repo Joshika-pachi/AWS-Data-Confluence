@@ -76,8 +76,3 @@ Amazon SNS (Email / Notification Alerts)
 - 🔔 Intelligent alert automation
 - 🔐 Advanced security layers
 
----
-
-Made with ❤️ on AWS.
-
----
